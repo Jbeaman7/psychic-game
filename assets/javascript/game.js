@@ -9,7 +9,7 @@ var guessesLeft = 10;
 
 var guessedLetters = []
 
-
+ 
 
 var computerLetter = computerChoices[Math.floor(Math.random() * computerChoices.length)]
 
